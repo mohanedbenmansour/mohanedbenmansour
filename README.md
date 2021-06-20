@@ -1,6 +1,5 @@
 ### Hi there, I'm mohaned ben mansour  👋
 ![](https://komarev.com/ghpvc/?username=mohanedbenmansour)
-![Alt Text](https://media.giphy.com/media/sULKEgDMX8LcI/source.gif)
 ## I'm a full stack typescript developer!!
 
 
