@@ -9,7 +9,6 @@
 - 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanedbenmansour&label=Views&color=blue&style=plastic" alt="mohanedbenmansour" /> </p>
 
 
 <a href="https://www.linkedin.com/in/mohaned-benmansour">
