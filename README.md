@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/mohaned-benmansour">
   <img align="left" alt="mohaned's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/mohanedbenmansour">
-  <img align="left" alt="mohaned's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://gitlab.com/mohanedbnmansour">
+  <img align="left" alt="mohaned's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 <a href="https://www.facebook.com/deadlyflourishh">
   <img align="left" alt="mohaned's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
