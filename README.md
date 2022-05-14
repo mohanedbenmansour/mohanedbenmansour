@@ -3,8 +3,7 @@
 ## I'm a full stack typescript developer!!
 
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🌱 I’m currently learning everything 
 
 ### Connect with me:
 
