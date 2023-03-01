@@ -4,6 +4,7 @@
 
 
 - 🌱 I’m currently learning everything 
+- most of my work is in gitlab 
 
 ### Connect with me:
 
